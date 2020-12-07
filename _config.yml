@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Michael Klink - Software Development Engineer"
+description: "Intermediate software engineer and Essential worker"
 
 # Build settings
 markdown: kramdown
@@ -9,15 +9,15 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 
-resume_name:                    "GitHub Teacher"
-resume_title:                   "Professional Trainer"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
-resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
-resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
+resume_name:                    "Michael Klink"
+resume_title:                   "Software Engineer"
+resume_contact_email:           "mklink.dev@gmail.com"
+resume_contact_telephone:       "1-(951)-692-0594"
+resume_contact_address:         "Yucca Valley, California"
+resume_header_contact_info: "Yucca Valley, California | 1-(951)-692-0594 | mklink.dev@gmail.com"
+resume_header_intro: "<p>Software engineer fluent in HTML, CSS, and JS, proficient in VBA, C++, Java, and with familiarity in Python, SQL, and Ruby.</p>"
 
 
 # use "yes" to display the email contact button,
@@ -35,18 +35,18 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/Klink-Dev/"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "www.linkedin.com/in/MichaelJKlink"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://Klink-Dev.github.io"
 resume_print_social_links:      true
 
 # Design settings
