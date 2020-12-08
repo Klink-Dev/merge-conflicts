@@ -1,9 +1,25 @@
 # Skills
 
 # Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+- skill: Critical Thinking
+  description: Innovative problem-solver trained in continual improvement with the ability to dive deep, perform root cause analysis, and take effective action.
+
+# Office
+- skill: Microsoft Office
+  description: Proficient in Word, Excel, Power Point, and Outlook
 
 # Leadership
 - skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  description: Able to work flexibly as a team leader, member, or individually while remaining compliant with company standards and guidelines and delivering results that meet or exceed expectations
+  
+# Software Development
+- skill: Programming/Software Development
+  description: Experienced in developing applications and using object-oriented programming methods; proficient in HTML, CSS, and JavaScript (including ES6, JSON, and the jQuery library), and VBA; Familiar with C++, Java, and SQL.
+  
+# Version Control
+- skill: Version control
+  description: Experience using version control through GIT and Github for continual improvement and collaboration
+  
+#Customer Service
+- skill: Customer Service
+  description: 8 years of experience working directly with customers at a retail store
