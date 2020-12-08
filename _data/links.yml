@@ -3,3 +3,10 @@
   description: Open source repository for GitHub's On Demand training courses
 - url: "https://github.com/jglovier/resume-template/"
   description: Open source repository for a GitHub Page's powered resume template
+- url: "https://klink-dev.github.io/github-pages-with-jekyll/"
+  description: A blog about my learning experience with Jekyll.
+- url: "https://klink-dev.github.io/klinks.net/"
+  description: a personal website
+- url: "https://klink-dev.github.io/github-slideshow/#/"
+  description: A github slideshow project
+  
