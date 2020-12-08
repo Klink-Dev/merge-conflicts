@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# Github Projects
+- project: Github Markdown Test
+  role: Project Lead
+  duration: 2020 &mdash; Present
+  url: "https://klink-dev.github.io/md_testing/"
+  description: A page for testing markdown in a jekyll template
+  
+# Excel Projects
+- project: TOAST
+  role: Project Lead
+  duration: 2020 &mdash; Present
+  #url: ""
+  description: TOAST is an acronym for "Trained and Onsite Associate Synchronization Tool". It is an Excel VBA tool created for Amazon internal warehouse operations for quickly identifying if employees are on the clock, which processes they are trained in, and how much time they have spent in various processes over the course of the past 30 days.
